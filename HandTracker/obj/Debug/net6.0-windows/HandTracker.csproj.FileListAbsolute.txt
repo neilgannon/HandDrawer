@@ -1,0 +1,77 @@
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\Content\SM_Hand.xnb
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\HandTracker.exe
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\HandTracker.deps.json
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\HandTracker.runtimeconfig.json
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\HandTracker.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\HandTracker.pdb
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\obj\Debug\net6.0-windows\HandTracker.csproj.AssemblyReference.cache
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\obj\Debug\net6.0-windows\HandTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\obj\Debug\net6.0-windows\HandTracker.AssemblyInfoInputs.cache
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\obj\Debug\net6.0-windows\HandTracker.AssemblyInfo.cs
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\obj\Debug\net6.0-windows\HandTracker.csproj.CoreCompileInputs.cache
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\obj\Debug\net6.0-windows\HandTracker.csproj.CopyComplete
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\obj\Debug\net6.0-windows\HandTracker.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\obj\Debug\net6.0-windows\refint\HandTracker.dll
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\obj\Debug\net6.0-windows\HandTracker.pdb
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\obj\Debug\net6.0-windows\HandTracker.genruntimeconfig.cache
+C:\Users\ngannon\Downloads\Projects\HandTracker\HandTracker\obj\Debug\net6.0-windows\ref\HandTracker.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\obj\Debug\net6.0-windows\HandTracker.csproj.AssemblyReference.cache
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\obj\Debug\net6.0-windows\HandTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\obj\Debug\net6.0-windows\HandTracker.AssemblyInfoInputs.cache
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\obj\Debug\net6.0-windows\HandTracker.AssemblyInfo.cs
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\obj\Debug\net6.0-windows\HandTracker.csproj.CoreCompileInputs.cache
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\obj\Debug\net6.0-windows\HandTracker.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\obj\Debug\net6.0-windows\refint\HandTracker.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\obj\Debug\net6.0-windows\HandTracker.pdb
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\Content\SM_Hand.xnb
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\HandTracker.exe
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\HandTracker.deps.json
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\HandTracker.runtimeconfig.json
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\HandTracker.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\HandTracker.pdb
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\obj\Debug\net6.0-windows\HandTracker.csproj.CopyComplete
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\obj\Debug\net6.0-windows\HandTracker.genruntimeconfig.cache
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\obj\Debug\net6.0-windows\ref\HandTracker.dll
+C:\Users\ngannon\OneDrive - Atlantic TU\Documents\GitHub\HandDrawer\HandTracker\bin\Debug\net6.0-windows\Content\SM_Sphere.xnb
